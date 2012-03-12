@@ -12,3 +12,4 @@
 /tmp
 # Ignore config files
 config/database.yml
+config/deploy.rb
